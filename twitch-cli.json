@@ -1,22 +1,22 @@
 {
-    "version": "0.3.0",
+    "version": "0.3.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/twitchdev/twitch-cli/releases/download/v0.3.0/twitch-cli_0.3.0_Windows_i386.zip",
+            "url": "https://github.com/twitchdev/twitch-cli/releases/download/v0.3.1/twitch-cli_0.3.1_Windows_i386.zip",
             "bin": [
                 "twitch.exe"
             ],
-            "hash": "f36281e5a5b0a81b62296b8e17d0f09a57b8a363780729e1836be616a6d8772b"
+            "hash": "629fded285780f3016715d9252e35b4f28e49dd4fbbceeaac4e6b7cc6cec1f9a"
         },
         "64bit": {
-            "url": "https://github.com/twitchdev/twitch-cli/releases/download/v0.3.0/twitch-cli_0.3.0_Windows_x86_64.zip",
+            "url": "https://github.com/twitchdev/twitch-cli/releases/download/v0.3.1/twitch-cli_0.3.1_Windows_x86_64.zip",
             "bin": [
                 "twitch.exe"
             ],
-            "hash": "cbf6fdf0583c2a853f6493a2a229a24c4cf765a26e31d75570a91f3e73c98048"
+            "hash": "a9f122658aa99e09edd5a73412ad01e1c452069cdc74cf3ec9ddddbf17af8d6b"
         }
     },
     "homepage": "https://github.com/twitchdev/twitch-cli",
-    "license": "Apache 2.0",
+    "license": "Apache-2.0",
     "description": "CLI for Twitch's developer offerings"
 }
