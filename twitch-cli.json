@@ -1,19 +1,19 @@
 {
-    "version": "0.3.3",
+    "version": "0.4.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/twitchdev/twitch-cli/releases/download/v0.3.3/twitch-cli_0.3.3_Windows_i386.zip",
+            "url": "https://github.com/twitchdev/twitch-cli/releases/download/0.4.0/twitch-cli_0.4.0_Windows_i386.zip",
             "bin": [
                 "twitch.exe"
             ],
-            "hash": "b058e2fa7af8f6a2d64f99e67b5f954ffcac47c5d89fb0af90db89eff14d8e3c"
+            "hash": "aa95695a509651c311055c5b5f79bacb5b6111313920ea2c5907a36b9c6ac6a4"
         },
         "64bit": {
-            "url": "https://github.com/twitchdev/twitch-cli/releases/download/v0.3.3/twitch-cli_0.3.3_Windows_x86_64.zip",
+            "url": "https://github.com/twitchdev/twitch-cli/releases/download/0.4.0/twitch-cli_0.4.0_Windows_x86_64.zip",
             "bin": [
                 "twitch.exe"
             ],
-            "hash": "81476c49b3e71ec88837bac98c71bc773e444cd73daff9019a76da5d8edfe0dc"
+            "hash": "6aade70388c50739474fc4fc71d0b69790cdadf5c62d6f21d3740797417ebced"
         }
     },
     "homepage": "https://github.com/twitchdev/twitch-cli",
